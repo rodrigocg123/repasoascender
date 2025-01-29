@@ -124,7 +124,7 @@ Introduce el tercer número: 45
 Introduce el cuarto número: 23
 ¡Los números no son iguales!
 
-153.	Comprobar Dobles Entre 0 y 1
+<!-- 153.	Comprobar Dobles Entre 0 y 1 (revisar) -->
 Escribe un programa en Java que acepte dos variables de tipo doble y verifique si ambas están estrictamente entre 0 y 1, y que devuelva "false" en caso contrario.
 Salida de Ejemplo:
 Introduce el primer número: 5
